@@ -10,5 +10,5 @@ I'll improve it latter as I have free time again.
 Enjoy!
 See you later.
 
-![Example Screenshot](https://github.com/Julioacarrettoni/SpringyFlowLayoutExample/blob/master/example.png)
+![Example Screenshot](https://raw.github.com/Julioacarrettoni/SpringyFlowLayoutExample/master/example.png)
 
